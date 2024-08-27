@@ -2,7 +2,7 @@ from tkinter import *
 import random
 import string
 root=Tk()
-root.title("Random Password Generator")
+root.title("Random Password Generatorr")
 root.geometry('1600x700')
 
 number=IntVar()
